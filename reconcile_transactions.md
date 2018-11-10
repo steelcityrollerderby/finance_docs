@@ -7,7 +7,7 @@
 
 You're gonna see this dashboard.
 
-![Screenshot showing the dashboard](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/dashboard_1.png "dashboard)
+![](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/dashboard_1.png "dashboard")
 
 
 ## Reconciling Bank Transactions
