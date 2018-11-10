@@ -1,4 +1,13 @@
-   ## Positions in the Finance Committee
+# Finance Committee
+
+## Page Index:
+
+1. [Treasurer Onboarding](https://github.com/steelcityrollerderby/finance_docs/blob/master/treasurer_onboarding.md)
+2. [General Finance Onboarding](https://github.com/steelcityrollerderby/finance_docs/blob/master/general_finance_onboarding.md)
+3. [Reconciling Transactions on Xero](https://github.com/steelcityrollerderby/finance_docs/blob/master/reconcile_transactions.md)
+
+
+## Positions in the Finance Committee
 
 ### Committee Oversight (Kween)
 - Reconcile All payments once a week
