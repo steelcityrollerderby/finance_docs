@@ -13,7 +13,7 @@ You're gonna see this dashboard.
 
 Click this button.
 
-![Screenshot identifying the bank transaction button](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/bank_transaction_button.png "Bank transaction button")
+![Screenshot identifying the bank transaction button](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconcile_transactions_screenshots/bank_transaction_button.png "Bank transaction button")
 
 ### Dues
 
@@ -24,7 +24,7 @@ Click this button.
 
 Click this button.
 
-![Screenshot identifying the paypal transaction button](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/paypal_transaction_button.png "Paypal transaction button")
+![Screenshot identifying the paypal transaction button](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconcile_transactions_screenshots/paypal_transaction_button.png "Paypal transaction button")
 
 ### Dues
 
@@ -34,7 +34,7 @@ Reconciling PayPal dues transactions is super easy. Fury creates invoices in Pay
 
 Example of an easy PayPal dues reconciliation:
 
-![Screenshot identifying an easy paypal dues reconciliation](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/easy_paypal_dues_reconciliation.png "Easy paypal dues reconciliation example")
+![Screenshot identifying an easy paypal dues reconciliation](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconcile_transactions_screenshots/easy_paypal_dues_reconciliation.png "Easy paypal dues reconciliation example")
 
 You can ALWAYS hit the `OK` button in the middle of 2 transactions for PayPal fees. The note on the Bank Statement Line will look something like this:
 ```
@@ -55,7 +55,7 @@ Sometimes you'll come across transactions that aren't inherently obvious (they w
 
 **Here's an easy example:**
 
-![Screenshot identifying make a new transaction](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/make_a_new_transaction.png "Make a new transaction example")
+![Screenshot identifying make a new transaction](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconcile_transactions_screenshots/make_a_new_transaction.png "Make a new transaction example")
 
 Take the following steps and refer to the screenshot below:
 1. Fill out `Who`. Look at the Bank Line statement to see if it identifies a who. If it doesn't, [check who it's from]() and enter that. If it does, put that contact in.
@@ -63,4 +63,4 @@ Take the following steps and refer to the screenshot below:
 3. Fill out the `Why`. This can be whatever you want, just write what it is. If you don't know what it's for, [check what it's for]() and write that in.
 4. Once steps 1-3 are completed, an `OK` button will appear. Click it and the transaction will disappear.
 
-![Fill out fields for new transaction](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconciling_transactions_screenshots/new_transaction_2.png "Fill out fields for new transaction")
+![Fill out fields for new transaction](https://github.com/steelcityrollerderby/finance_docs/blob/master/screenshots/reconcile_transactions_screenshots/new_transaction_2.png "Fill out fields for new transaction")
