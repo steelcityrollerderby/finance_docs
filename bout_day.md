@@ -17,7 +17,7 @@ Important note: both PISA and PISA Pub will take debit cards as well as checks.
 
 1. Gather counted-down box sheet from merch (necessary for the bout breakdown)
 2. Pay the photographer ($100 + tip - so like $125 total) - PAY WITH CHECK
-3. Pay for the bout food (as of this writing, $150 + tip - so like $200 total)
+3. Pay for the bout food (as of this writing, $200 + tip - so like $250 total)
 
 ## Generally after the bout
 
